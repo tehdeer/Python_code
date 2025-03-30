@@ -1,0 +1,2 @@
+运行main1.py对电影题材进行KNN分类
+运行main2.py对约会对象KNN分类
